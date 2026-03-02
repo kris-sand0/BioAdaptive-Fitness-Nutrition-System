@@ -45,9 +45,6 @@ Siga as instruções abaixo para executar o projeto em seu ambiente local.
 3.  **Configure as variáveis de ambiente:**
     *   Crie uma cópia do arquivo `.env.example` e renomeie para `.env.local`.
     *   Dentro do `.env.local`, adicione sua chave da API do Google Gemini:
-        ```
-        NEXT_PUBLIC_GEMINI_API_KEY=SUA_CHAVE_API_AQUI
-        ```
 
 4.  **Execute o servidor de desenvolvimento:**
     ```bash
